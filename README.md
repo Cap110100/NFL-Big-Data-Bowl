@@ -6,3 +6,5 @@ By training a sequence-to-sequence LSTM under this objective, we aim to capture 
 
 Detailed Project Report:
 https://www.kaggle.com/code/elliottscott774/predicting-wide-receiver-routes-in-the-nfl 
+
+Note: Datasets can be found in the kaggle competetion page (https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/overview) 
